@@ -6,17 +6,24 @@
 
   "dapps":[
     {
-      "file":"https://mihbor.github.io/mini-payments/mini-payments.mds.zip",
+      "file":"https://mihbor.gitlab.io/minipay/minipay.mds.zip",
       "icon":"https://raw.githubusercontent.com/mihbor/mini-payments/master/src/jsMain/resources/tap_and_play.png",
       "name":"minipay",
       "description": "Contactless payment app with L2 support",
-      "version" : "0.1"
+      "version" : "0.2"
     },
     {
       "file":"https://mihbor.github.io/miniverse/miniverse.mds.zip",
       "icon":"https://raw.githubusercontent.com/mihbor/miniverse/master/src/jsMain/resources/minimaAPKIcon.png",
       "name":"miniverse",
       "description": "Decentralized metaverse on Minima",
+      "version" : "0.1"
+    },
+    {
+      "file":"https://mihbor.gitlab.io/minidapp-koin/minidapp-koin.mds.zip",
+      "icon":"https://raw.githubusercontent.com/mihbor/minidapp-koin/master/src/jsMain/resources/coins.svg",
+      "name":"Koin",
+      "description": "Break up your coins into smaller denominations",
       "version" : "0.1"
     }
   ]
