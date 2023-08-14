@@ -1,16 +1,16 @@
 {
   "name":"MBor store",
   "description":"Michal Borowiecki miniDapp store",
-  "icon":"https://raw.githubusercontent.com/mihbor/mini-payments/master/src/jsMain/resources/tap_and_play.png",
-  "version":"0.1",
+  "icon":"https://raw.githubusercontent.com/mihbor/minidapp-store/master/mbor-logo.png",
+  "version":"0.1.1",
 
   "dapps":[
     {
-      "file":"https://mihbor.gitlab.io/minipay/minipay.mds.zip",
+      "file":"https://mihbor.gitlab.io/minipay/minipay-0.3.4.3.mds.zip",
       "icon":"https://raw.githubusercontent.com/mihbor/mini-payments/master/src/jsMain/resources/tap_and_play.png",
       "name":"minipay",
       "description": "Contactless payment app with L2 support",
-      "version" : "0.2"
+      "version" : "0.3.4.3"
     },
     {
       "file":"https://mihbor.github.io/miniverse/miniverse.mds.zip",
