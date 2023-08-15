@@ -20,7 +20,7 @@
       "version" : "0.1"
     },
     {
-      "file":"https://mihbor.gitlab.io/minidapp-koin/minidapp-koin.mds.zip",
+      "file":"https://mihbor.gitlab.io/minidapp-koin/minidapp-koin-0.1.mds.zip",
       "icon":"https://raw.githubusercontent.com/mihbor/minidapp-koin/master/src/jsMain/resources/coins.svg",
       "name":"Koin",
       "description": "Break up your coins into smaller denominations",
