@@ -1,8 +1,8 @@
 {
-  "name":"MBor store",
-  "description":"Michal Borowiecki miniDapp store",
+  "name":"MBor's Lab",
+  "description":"Michal Borowiecki's experimental miniDApps",
   "icon":"https://raw.githubusercontent.com/mihbor/minidapp-store/master/mbor-logo.png",
-  "version":"0.1.3",
+  "version":"0.1.4",
 
   "dapps":[
     {
