@@ -2,7 +2,7 @@
   "name":"MBor's Lab",
   "description":"Michal Borowiecki's experimental miniDApps",
   "icon":"https://raw.githubusercontent.com/mihbor/minidapp-store/master/mbor-logo.png",
-  "version":"0.1.4",
+  "version":"0.2",
 
   "dapps":[
     {
@@ -13,17 +13,24 @@
       "version" : "0.3.5"
     },
     {
-      "file":"https://mihbor.github.io/miniverse/miniverse.mds.zip",
-      "icon":"https://raw.githubusercontent.com/mihbor/miniverse/master/src/jsMain/resources/minimaAPKIcon.png",
-      "name":"miniverse",
-      "description": "Decentralized metaverse on Minima",
-      "version" : "0.1"
-    },
-    {
       "file":"https://mihbor.gitlab.io/minidapp-koin/minidapp-koin-0.1.mds.zip",
       "icon":"https://raw.githubusercontent.com/mihbor/minidapp-koin/master/src/jsMain/resources/coins.svg",
       "name":"Koin",
       "description": "Break up your coins into smaller denominations",
+      "version" : "0.1"
+    },
+    {
+      "file":"https://mihbor.gitlab.io/minidapp-auction/minidapp-auction-0.1.mds.zip",
+      "icon":"https://raw.githubusercontent.com/mihbor/minidapp-auction/master/src/jsMain/resources/gavel.svg",
+      "name":"Auction",
+      "description": "Minimalistic on chain auctions",
+      "version" : "0.1"
+    },
+    {
+      "file":"https://mihbor.github.io/miniverse/miniverse.mds.zip",
+      "icon":"https://raw.githubusercontent.com/mihbor/miniverse/master/src/jsMain/resources/minimaAPKIcon.png",
+      "name":"miniverse",
+      "description": "Decentralized metaverse on Minima",
       "version" : "0.1"
     }
   ]
