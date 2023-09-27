@@ -2,28 +2,49 @@
   "name":"MBor's Lab",
   "description":"Michal Borowiecki's experimental miniDApps",
   "icon":"https://raw.githubusercontent.com/mihbor/minidapp-store/master/mbor-logo.png",
-  "version":"0.2",
+  "version":"0.3",
 
   "dapps":[
     {
       "file":"https://mihbor.gitlab.io/minipay/minipay-0.3.5.mds.zip",
-      "icon":"https://raw.githubusercontent.com/mihbor/mini-payments/master/src/jsMain/resources/tap_and_play.png",
+      "icon":"https://mihbor.gitlab.io/minipay/minipay.svg",
       "name":"minipay",
       "description": "Contactless payment app with L2 support",
       "version" : "0.3.5"
     },
     {
       "file":"https://mihbor.gitlab.io/minidapp-koin/minidapp-koin-0.1.mds.zip",
-      "icon":"https://raw.githubusercontent.com/mihbor/minidapp-koin/master/src/jsMain/resources/coins.svg",
+      "icon":"https://mihbor.gitlab.io/minidapp-koin/coins.svg",
       "name":"Koin",
       "description": "Break up your coins into smaller denominations",
       "version" : "0.1"
     },
     {
       "file":"https://mihbor.gitlab.io/minidapp-auction/minidapp-auction-0.1.mds.zip",
-      "icon":"https://raw.githubusercontent.com/mihbor/minidapp-auction/master/src/jsMain/resources/gavel.svg",
+      "icon":"https://mihbor.gitlab.io/minidapp-auction/gavel.svg",
       "name":"Auction",
       "description": "Minimalistic on chain auctions",
+      "version" : "0.1"
+    },
+    {
+      "file":"https://mihbor.gitlab.io/Muse/Muser-0.1.mds.zip",
+      "icon":"https://mihbor.gitlab.io/Muse/muse-logo.svg",
+      "name":"Muser",
+      "description": "End user app for collateralised lending and loan liquidation",
+      "version" : "0.1"
+    },
+    {
+      "file":"https://mihbor.gitlab.io/Muse/MuseMaker-0.1.mds.zip",
+      "icon":"https://mihbor.gitlab.io/Muse/muse-logo.svg",
+      "name":"MuseMaker",
+      "description": "Muse CDP token creator app",
+      "version" : "0.1"
+    },
+    {
+      "file":"https://mihbor.gitlab.io/minidapp-deks/minidapp-deks-0.1.mds.zip",
+      "icon":"https://mihbor.gitlab.io/minidapp-deks/exchange.svg",
+      "name":"Deks",
+      "description": "Simple On-Chain DEX (Decentralised Exchange) and AMM (Automatic Market Maker)",
       "version" : "0.1"
     },
     {
